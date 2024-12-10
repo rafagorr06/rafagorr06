@@ -4,7 +4,6 @@
 <br>
 
 ### 👉 Programming languages
-
 <p align="left"> 
   &emsp;
   <a href="" target="_blank"> 
@@ -43,17 +42,7 @@
       &emsp;
     <a href=""><img alt="Clouflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
 
-  
-### 👉Graphic Designing
-<p align="left">
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
  ### 👉 Software & Tools
- 
 <p>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -64,5 +53,4 @@
 &emsp;
     <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
 <br/>
-
 <hr/>
