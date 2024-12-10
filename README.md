@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Rafael Gorrochategui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">I am currently studying Computer Engineering at Universidad Nacional del Litoral. I like to program, learn new languages ​​and develop new skills.</h4>
 <br>
